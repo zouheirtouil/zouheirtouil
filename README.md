@@ -1,5 +1,5 @@
 Hello World, I'm Zouheir! 👋
-🎓 -A double diplomas engineering student, graduated in the fields of Software Engineering & Information Management Systems from The Higher National Scool of Mines Rabat-Morocco, 
+🎓 -A double diplomat engineering student, graduated in the fields of Software Engineering & Information Management Systems from The Higher National Scool of Mines Rabat-Morocco, 
 and currently, I'm a Data Engineering student (M1) at IMT LILLE DOUAI.
 
 🐍 📊 - A Data Enthusiast: During my journey, I've developed a keen interest in the Data Science field and the different applications of AI in real life.
